@@ -1,55 +1,81 @@
-<!-- Perfil de Thiago Patriota | github.com/ThiagoPatriotaDev -->
-<!-- Banner horizontal animado. Mantenha a pasta assets junto do README.md. --><div align="center">
-  <img src="./thiago-ascii-banner.gif" width="100%" alt="Banner animado de Thiago Patriota, retrato em arte ASCII, terminal e TARDIS" />
+<!-- Thiago Patriota | github.com/ThiagoPatriotaDev -->
+<!-- Identidade: Terminal Neon / Bento Grid. Assets locais: pasta assets/ -->
+
+<div align="center">
+  <img src="./thiago-ascii-banner.gif" width="100%" alt="Banner horizontal animado de Thiago Patriota, com retrato ASCII, terminal em tons de azul e TARDIS" />
 </div>
-<div align="center"><h2><code>FullStack Web Developer em formação</code></h2><p>
-  Construindo interfaces, sistemas e experiências digitais com foco em Web, tecnologia e criatividade.
-</p><img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-020617?style=for-the-badge&labelColor=0B1120&color=1D4ED8" alt="Status: Learning & Building" />
-<img src="https://img.shields.io/badge/Focus-FullStack%20Web-020617?style=for-the-badge&labelColor=0B1120&color=2563EB" alt="Focus: FullStack Web" />
-<img src="https://img.shields.io/badge/Exploring-Game%20Dev-020617?style=for-the-badge&labelColor=0B1120&color=3B82F6" alt="Exploring: Game Dev" /></div>
-🧭 Sobre mim
-Sou estudante de Engenharia de Software no IFPE, desenvolvendo uma base sólida em programação, estruturação de sistemas e criação de interfaces web modernas.
 
-Atualmente estou focado em evoluir como desenvolvedor FullStack, estudando tecnologias de frontend, backend, banco de dados e ferramentas que fazem parte do ciclo completo de desenvolvimento de software.
+<br>
 
-Também venho explorando Inteligências Artificiais, como a criação de Agents e Skills para otimização e desenvolvimento de softwares.
+<div align="center">
+  <sub>SOFTWARE ENGINEERING  ·  WEB DEVELOPMENT  ·  CREATIVE TECHNOLOGY</sub>
+  <h2>FullStack Web Developer em formação</h2>
+  <p>Construindo interfaces, sistemas e experiências digitais com foco em <b>Web, tecnologia e criatividade.</b></p>
+  <img src="./focus-strip.svg" alt="Status: Learning & Building. Foco: FullStack Web. Explorando: Game Dev e inteligência artificial." width="100%" />
+</div>
 
-<h2 align="center">Minhas Stacks incríveis :D</h2>
-<table width="100%">
+<br>
+
+### `01 / SOBRE MIM`
+
+Sou estudante de **Engenharia de Software no IFPE** e gosto de transformar ideias em interfaces e sistemas que sejam simples de usar, agradáveis de explorar e sólidos por dentro.
+
+Minha jornada está concentrada em **desenvolvimento FullStack**, passando por frontend, backend, banco de dados e ferramentas do ciclo de software. Também venho experimentando **inteligência artificial, Agents e Skills**, além de explorar o universo do **Game Dev**.
+
+<br>
+
+### `02 / MINHA STACK`
+
+<table width="100%" align="center">
   <tr>
     <td align="center" width="33%">
       <h3>Frontend</h3>
       <br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" alt="HTML5, CSS3, JavaScript, React, Next.js" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" />
       <br><br>
-      <sub>HTML5 • CSS3 • JavaScript • React • Next.js</sub>
+      <sub>
+        HTML5 • CSS3 • JavaScript • React • Next.js
+      </sub>
     </td>
     <td align="center" width="33%">
       <h3>Backend</h3>
       <br>
-      <img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,dotnet&theme=dark" alt="Node.js, Python, Java, C Sharp, .NET" />
+      <img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,dotnet&theme=dark" />
       <br><br>
-      <sub>Node.js • Python • Java • C# • .NET</sub>
+      <sub>
+        Node.js • Python • Java • C# • .NET
+      </sub>
     </td>
     <td align="center" width="33%">
-      <h3>Dados &amp; Ferramentas</h3>
+      <h3>Dados & Ferramentas</h3>
       <br>
-      <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode&theme=dark" alt="PostgreSQL, Git, GitHub, VS Code" />
+      <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode&theme=dark" />
       <br><br>
-      <sub>PostgreSQL • Git • GitHub • VS Code</sub>
+      <sub>
+        PostgreSQL • Git • GitHub • VS Code
+      </sub>
     </td>
   </tr>
 </table>
-<div align="center"><h2>Meu Github :O</h2>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoPatriotaDev&bg_color=020617&color=E5E7EB&line=3B82F6&point=60A5FA&area=true&hide_border=true" alt="Gráfico de atividade do GitHub de Thiago Patriota" width="100%" /></div>
-<div align="center"><h2>Fale por aqui!</h2><a href="mailto:thiagosilvapatriota@gmail.com">
-  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email" />
-</a><a href="https://www.linkedin.com/in/thiago-patriota-a6841b271">
-  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn" />
-</a><a href="https://github.com/ThiagoPatriotaDev">
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=93C5FD" alt="GitHub" />
-</a>
 
+<br>
 
-<code>Code. Build. Learn. Repeat.</code>
+### `03 / ATIVIDADE NO GITHUB`
+
+<div align="center">
+  <p><sub>COMMITS • COLABORAÇÃO • EVOLUÇÃO CONTÍNUA</sub></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoPatriotaDev&amp;bg_color=0B1527&amp;color=D8E7FC&amp;line=5EA9FF&amp;point=58E4F1&amp;area=true&amp;hide_border=true&amp;area_color=12376D" alt="Gráfico de atividade de ThiagoPatriotaDev no GitHub" width="100%" />
+</div>
+
+<br>
+
+### `04 / VAMOS CONVERSAR?`
+
+<div align="center">
+  <p>Uma ideia, uma colaboração ou só uma boa conversa sobre tecnologia? Me encontra por aqui.</p>
+  <a href="mailto:thiagosilvapatriota@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1527?style=for-the-badge&amp;logo=gmail&amp;logoColor=58E4F1" alt="Enviar e-mail" /></a>
+  <a href="https://www.linkedin.com/in/thiago-patriota-a6841b271"><img src="https://img.shields.io/badge/LINKEDIN-0B1527?style=for-the-badge&amp;logo=linkedin&amp;logoColor=5EA9FF" alt="LinkedIn de Thiago Patriota" /></a>
+  <a href="https://github.com/ThiagoPatriotaDev"><img src="https://img.shields.io/badge/GITHUB-0B1527?style=for-the-badge&amp;logo=github&amp;logoColor=D8E7FC" alt="Perfil do GitHub" /></a>
+  <br><br>
+  <samp>Code. Build. Learn. Repeat.</samp>
 </div>
