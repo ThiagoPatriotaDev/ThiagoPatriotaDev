@@ -63,8 +63,11 @@ Minha jornada está concentrada em **desenvolvimento FullStack**, passando por f
 ### `03 / ATIVIDADE NO GITHUB`
 
 <div align="center">
-  <p><sub>COMMITS • COLABORAÇÃO • EVOLUÇÃO CONTÍNUA</sub></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoPatriotaDev&amp;bg_color=0B1527&amp;color=D8E7FC&amp;line=5EA9FF&amp;point=58E4F1&amp;area=true&amp;hide_border=true&amp;area_color=12376D" alt="Gráfico de atividade de ThiagoPatriotaDev no GitHub" width="100%" />
+  <img
+    src="https://yourinsights.vercel.app/api/insight?username=ThiagoPatriotaDev&theme=tokyonight&profile=false&languages=false&streak=false&graph=false&stats=false"
+    width="100%"
+    alt="Atividade mensal e contribuições no GitHub"
+  />
 </div>
 
 <br>
