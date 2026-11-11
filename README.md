@@ -1,6 +1,6 @@
 <!-- Perfil de Thiago Patriota | github.com/ThiagoPatriotaDev -->
 <!-- Banner horizontal animado. Mantenha a pasta assets junto do README.md. --><div align="center">
-  <img src="./assets/thiago-ascii-banner.gif" width="100%" alt="Banner animado de Thiago Patriota, retrato em arte ASCII, terminal e TARDIS" />
+  <img src="./thiago-ascii-banner.gif" width="100%" alt="Banner animado de Thiago Patriota, retrato em arte ASCII, terminal e TARDIS" />
 </div>
 <div align="center"><h2><code>FullStack Web Developer em formação</code></h2><p>
   Construindo interfaces, sistemas e experiências digitais com foco em Web, tecnologia e criatividade.
